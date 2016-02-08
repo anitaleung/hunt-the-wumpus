@@ -1,0 +1,7 @@
+\\server3\users\cawleyc\visual studio 2010\Projects\CaveObject\CaveObject\bin\Debug\CaveObject.exe
+\\server3\users\cawleyc\visual studio 2010\Projects\CaveObject\CaveObject\bin\Debug\CaveObject.pdb
+\\server3\users\cawleyc\visual studio 2010\Projects\CaveObject\CaveObject\obj\x86\Debug\CaveObject.Form1.resources
+\\server3\users\cawleyc\visual studio 2010\Projects\CaveObject\CaveObject\obj\x86\Debug\CaveObject.Properties.Resources.resources
+\\server3\users\cawleyc\visual studio 2010\Projects\CaveObject\CaveObject\obj\x86\Debug\WumpusTest.csproj.GenerateResource.Cache
+\\server3\users\cawleyc\visual studio 2010\Projects\CaveObject\CaveObject\obj\x86\Debug\CaveObject.exe
+\\server3\users\cawleyc\visual studio 2010\Projects\CaveObject\CaveObject\obj\x86\Debug\CaveObject.pdb
